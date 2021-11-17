@@ -23,7 +23,8 @@ Here are some ideas to get you started:
   
 </div>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pinocchio22)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinocchio22&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinocchio22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
