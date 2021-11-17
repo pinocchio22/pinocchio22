@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-  https://img.shields.io/github/followers/pinocchio22?style=social
+ https://img.shields.io/github/followers/pinocchio22?style=social
   
 </div>
 
